@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\Program Files\RevitAPITrainig\RevitAPIFinalRooms.dll"</Assembly>
+    <AddInId>395302FA-843C-4E33-9D4F-283EF939A0EA</AddInId>
+    <FullClassName>RevitAPIFinalRooms.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>FinalRooms</Text>
+  </AddIn>
+</RevitAddIns>
